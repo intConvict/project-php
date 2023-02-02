@@ -8,10 +8,8 @@
   <title>Document</title>
 </head>
 <body>
-  
+  <div id="nav-bar">
+    <h1>Simpsons</h1>
+  </div>
 </body>
 </html>
-
-<?php
-echo "<h1>i'm a big fan of the Simpsons<h1>";
-echo "<h2>doh!<h2>";
